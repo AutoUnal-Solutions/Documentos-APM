@@ -4,7 +4,7 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
 <table>
   <tr>
     <td>
-      <h1>PAutomatización de Procesos de Manufactura </h1>
+      <h1>Automatización de Procesos de Manufactura </h1>
       <h2>Proyecto integrador </h2>
       <strong> Autores:</strong>
       <ul>
@@ -16,7 +16,7 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
       </ul>
     </td>
     <td>
-      <img src="Images/robotIA.jpg" width="400">
+      <img src="images/miniLogo.png" width="400">
     </td>
   </tr>
 </table>
