@@ -4,8 +4,8 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
 <table>
   <tr>
     <td>
-      <h1>Automatización de Procesos de Manufactura </h1>
-      <h2>Proyecto integrador </h2>
+      <h1> AutoUnal Solutions</h1>
+      <h2> Proyecto integrador | Automatización de Procesos de Manufactura </h2>
       <strong> Autores:</strong>
       <ul>
         <li>Oscar Andres Alvarado Buitrago (oalvaradob@unal.edu.co) </li>
