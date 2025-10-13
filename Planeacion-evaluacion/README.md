@@ -4,7 +4,7 @@ Estudio de Mercado:
 
 El mercado global de motorreductores se encuentra en crecimiento sostenido, con una tasa compuesta anual (CAGR) proyectada de 4.9\% hasta el año 2033, momento en el cual se espera alcanzar un valor de mercado de aproximadamente USD 15.25 mil millones. Este crecimiento está impulsado por la creciente demanda de soluciones de transmisión eficientes en diversos sectores industriales, entre ellos la industria automotriz, minera, cementera, alimentaria y la de generación de energía.
 
-La necesidad de una transmisión eficiente de alto par, combinada con una mayor eficiencia energética en procesos industriales, representa una gran oportunidad para la expansión del mercado de motorreductores. En este contexto, las tecnologías de engranajes más utilizadas son las helicoidales y planetarias, que juntas representan aproximadamente el 62 % del mercado global de nuevas instalaciones, según el informe Global Industrial Gearbox and Gear Motors Market (2025).
+La necesidad de una transmisión eficiente de alto par, combinada con una mayor eficiencia energética en procesos industriales, representa una gran oportunidad para la expansión del mercado de motorreductores. En este contexto, las tecnologías de engranajes más utilizadas son las helicoidales y planetarias, que juntas representan aproximadamente el 62 % del mercado global de nuevas instalaciones, según el informe Industrial Gearbox and Gear Motors Market Size (2025).
 
 De manera más específica, los motorreductores helicoidales representaron el 28\% del mercado, seguidos por los motorreductores cónicos con un 17\%, y los sinfín-corona con un 15\% de participación. La mayor preferencia por los helicoidales se explica por su funcionamiento suave y silencioso, su alta capacidad de carga y la durabilidad derivada del diseño de sus dientes inclinados, que permite un mayor contacto entre superficies.
 
@@ -32,4 +32,4 @@ En esta sección se puede encontrar
 
 Referencias
 
-[1] Industrial Gearbox and Gear Motors Market Size, Growth | Report [2033]. (s. f.). https://www.marketgrowthreports.com/market-reports/industrial-gearbox-and-gear-motors-market-114627?utm_source=chatgpt.com
+[1] Industrial Gearbox and Gear Motors Market Size, Growth | Report [2033]. (2025). https://www.marketgrowthreports.com/market-reports/industrial-gearbox-and-gear-motors-market-114627?utm_source=chatgpt.com
