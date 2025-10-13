@@ -17,6 +17,10 @@ En esta sección se puede encontrar
   ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/249f4e15-c022-46fd-9a4e-e8a2a6cf3760)
 
   <li> Diagrama de Espagueti </li>
+
+  ![DIAGRAMAS APM](https://github.com/user-attachments/assets/1741c60b-89c4-4184-818a-9fcdaeb3eb67)
+  ![DIAGRAMAS APM (1)](https://github.com/user-attachments/assets/a41859e6-c0ec-4741-b895-dcd9bc7c2464)
+  
   <li> Diagrama VSM </li>
   <li> Software de simulación de planta </li>
 </ul>
