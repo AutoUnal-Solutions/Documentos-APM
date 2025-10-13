@@ -9,6 +9,9 @@ En esta sección se puede encontrar
   ![DIAGRAMAS APM (1)](https://github.com/user-attachments/assets/5292fd2b-3139-4029-a4e9-02d2594de62c)
 
   <li> Diagrama de análisis de proceso.</li>
+
+  Los diagramas de análisis de proceso se pueden visualizar en el [siguiente enlace.](https://docs.google.com/document/d/1aUp_YgVJHbEZInIFsLJUMVwwGUu5Rn2-zNvv4G0EORY/edit?usp=sharing)
+  
   <li> Layouts </li>
   
   ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/249f4e15-c022-46fd-9a4e-e8a2a6cf3760)
