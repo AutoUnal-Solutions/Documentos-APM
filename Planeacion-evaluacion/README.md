@@ -28,8 +28,7 @@ En esta sección se puede encontrar
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
   <li> Actas </li>
 
-  Es posible acceder a las actas a través del [siguiente enlace.]
-  (https://drive.google.com/drive/folders/1U3PpoWG9muUpDJTKn5vSGh2F7Ffd8Fdt?usp=sharing)
+  Es posible acceder a las actas a través del [siguiente enlace.](https://drive.google.com/drive/folders/1U3PpoWG9muUpDJTKn5vSGh2F7Ffd8Fdt?usp=sharing)
   
   <li> Modelo de negocio </li>
 </ul>
