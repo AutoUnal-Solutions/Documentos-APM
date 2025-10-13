@@ -26,6 +26,10 @@ En esta sección se puede encontrar
   
   <li> Presupuesto de adquisiciones, costos del proyecto y flujos de caja. </li>
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
+  <li> Actas </li>
+
+  Es posible acceder a las actas atraves del [siguiente link](https://drive.google.com/drive/folders/1U3PpoWG9muUpDJTKn5vSGh2F7Ffd8Fdt?usp=sharing)
+  
   <li> Modelo de negocio </li>
 </ul>
 
