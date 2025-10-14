@@ -25,6 +25,9 @@ En esta sección se puede encontrar
   Es posible acceder al Diagrama de Gantt a través del [siguiente enlace](https://shimmer-lead-6d0.notion.site/Proyecto-Automatizaci-n-Procesos-de-Manufactura-Motoreductores-RAMFE-28915cdb5cdc81e3877df6fa38bb0c1d?source=copy_link).
   
   <li> Presupuesto de adquisiciones, costos del proyecto y flujos de caja. </li>
+
+  [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
+  
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
   <li> Actas </li>
 
