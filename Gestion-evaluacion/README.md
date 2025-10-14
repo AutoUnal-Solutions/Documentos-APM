@@ -23,7 +23,8 @@ En esta sección se puede encontrar
   
   <li> Diagrama VSM </li>
   
-  ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/935ea955-9ddf-4060-aa26-ea4074ba4cea)
+  ![DiagramasPreAutomatizacion-Pre-VSM (2)](https://github.com/user-attachments/assets/57d8b1de-00aa-44f9-bf8e-06029a1e7d7f)
+
 
   <li> Software de simulación de planta </li>
   
