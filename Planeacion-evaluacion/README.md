@@ -26,7 +26,7 @@ En esta sección se puede encontrar
   
   <li> Presupuesto de adquisiciones, costos del proyecto y flujos de caja. </li>
 
-  [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
+  El excel de Planeación y Evaluación se encuentra en el [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
   
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
   <li> Actas </li>
