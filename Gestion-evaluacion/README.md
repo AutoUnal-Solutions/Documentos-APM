@@ -22,5 +22,10 @@ En esta sección se puede encontrar
   ![DIAGRAMAS APM (1)](https://github.com/user-attachments/assets/a41859e6-c0ec-4741-b895-dcd9bc7c2464)
   
   <li> Diagrama VSM </li>
+  
+  ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/935ea955-9ddf-4060-aa26-ea4074ba4cea)
+
   <li> Software de simulación de planta </li>
+  
+  [Video pre-automatización](https://www.youtube.com/watch?v=Qo0eKrPZasQ)
 </ul>
