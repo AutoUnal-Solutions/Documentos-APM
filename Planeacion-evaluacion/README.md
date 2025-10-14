@@ -34,6 +34,10 @@ En esta sección se puede encontrar
   Es posible acceder a las actas a través del [siguiente enlace.](https://drive.google.com/drive/folders/1U3PpoWG9muUpDJTKn5vSGh2F7Ffd8Fdt?usp=sharing)
   
   <li> Modelo de negocio </li>
+  
+  ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/45d7fb89-9628-4181-8ef0-d3ee113c0e98)
+
+
 </ul>
 
 
