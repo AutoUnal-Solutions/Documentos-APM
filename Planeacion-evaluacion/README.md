@@ -43,4 +43,4 @@ En esta sección se puede encontrar
 
 Referencias
 
-[1] Industrial Gearbox and Gear Motors Market Size, Growth | Report [2033]. (2025). https://www.marketgrowthreports.com/market-reports/industrial-gearbox-and-gear-motors-market-114627?utm_source=chatgpt.com
+[1] Industrial Gearbox and Gear Motors Market Size, Growth | Report [2033]. (2025). https://www.marketgrowthreports.com/market-reports/industrial-gearbox-and-gear-motors-market-114627
