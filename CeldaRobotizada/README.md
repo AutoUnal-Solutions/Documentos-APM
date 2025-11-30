@@ -9,6 +9,8 @@ Robot IRB 4600 de ABB:
 Controlador IRC5:
 <img width="736" height="415" alt="IRC5_16x9-S" src="https://github.com/user-attachments/assets/85ff936f-4115-4aa0-af64-4c5d73069947" />
 
+| Característica      |Descripción       |
+| ---      | ---       |
 | Alcance | 2.51 m |
 | Carga util | 20 kg  |
 
