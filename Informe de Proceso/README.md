@@ -1,5 +1,5 @@
-# A
-### B
+# Informe de Proceso
+
 ## Gestión de Proyecto 
 
 Desde el inicio del proyecto se estableció un esquema de trabajo basado en dos reuniones semanales, acordadas previamente con todos los integrantes. Para ello, se consultó la disponibilidad de cada miembro y se documentó el compromiso en un acta formal. Este proceso permitió definir una estructura organizativa clara y garantizar la asistencia a las sesiones de seguimiento.
