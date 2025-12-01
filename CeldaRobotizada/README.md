@@ -12,10 +12,14 @@ Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celd
 
 
 <p align="center">
+  
   ![IRB4600](https://github.com/user-attachments/assets/a8e7b257-50c8-476e-b52d-21e461a38c6a)
+  
+  Manipulador IRB 4600
+
 </p>
 
-Manipulador IRB 4600
+
 
 
 
@@ -34,9 +38,9 @@ Para manipular adecuadamente los engranajes, se seleccionó el gripper OnRobot 3
 
 <p align="center">
 <img width="551" height="680" alt="image" src="https://github.com/user-attachments/assets/8db4f2a2-6b00-45af-ab66-ca62255dcea6" />
-  
-Gripper OnRobot 3FG25
 </p>
+
+Gripper OnRobot 3FG25
 
 
 
