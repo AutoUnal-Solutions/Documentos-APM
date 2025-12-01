@@ -69,7 +69,9 @@ La celda también cuenta con varias paradas de emergencia: dos ubicadas en el ex
 
 La celda robotizada está diseñada para operar sin la presencia de un operario dentro de la celda durante su funcionamiento normal. Si es necesario realizar mantenimiento en algún componente, se puede ingresar a la celda apagando automáticamente el robot para garantizar la seguridad.
 
+### Simulación en Robotstudio
 
+Se puede acceder al video en el siguiente [Enlace](https://youtu.be/wzx8rY8hKtg).
 
 
 </ul>
