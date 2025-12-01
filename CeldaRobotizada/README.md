@@ -25,6 +25,7 @@ Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celd
 
 <center> Controlador IRC5 </center>
 
+<br>
 
 | Elemento | Peso (kg) |
 | ---- | ---- |
@@ -41,8 +42,32 @@ Para manipular adecuadamente los engranajes, se seleccionó el gripper OnRobot 3
 
 <center> Gripper OnRobot 3FG25 </center>
 
+<br>
 
+### Diseño de celda robotizada en RobotStudio y consideraciones de espacio, flujo de producto, interacción con personal, seguridad funcional y agarre del robot.
 
+La celda de manufactura robotizada fue diseñada y distribuida de tal manera que el robot quede en el centro de la celda, con el fin de maximizar su alcance y poder interactuar con la mayor cantidad posible de máquinas CNC. Como se observa en la figura, alrededor del manipulador se encuentran ubicadas tres máquinas CNC, cada una encargada del rectificado de un tipo específico de engranaje.
+
+Los engranajes ingresan a la celda robotizada a través de cintas transportadoras, provenientes de un proceso de dentado realizado al inicio de la celda de manufactura automatizada. Mediante sensores, el manipulador recibe la señal que indica el tipo de engranaje que va hacia la celda robotizada, con el fin de realizar las trayectorias correspondientes y ubicar el engranaje en su máquina CNC asignada.
+
+Un sensor ubicado al final de la cinta transportadora detiene esta y envía una señal para que el manipulador inicie su rutina de "machine tending". En este momento, el manipulador agarra el engranaje y lo posiciona en la máquina CNC. El controlador del robot, a su vez, envía una señal a la máquina CNC para que comience el proceso de rectificado. Luego, el manipulador regresa a su posición inicial y queda a la espera de una nueva señal para realizar otra acción.
+
+Cuando una máquina CNC termina el proceso de rectificado, envía una señal al controlador del robot indicando que el proceso ha finalizado. En este momento, el manipulador agarra el engranaje rectificado y lo coloca en la banda transportadora de salida.
+
+Es importante aclarar que los engranajes deben llegar al final de la banda transportadora en una posición adecuada para que el manipulador pueda agarrarlos sin problemas. Para ello, se utilizó una canaleta que garantiza que los engranajes siempre lleguen a la misma posición. Debido a que los engranajes tienen diferentes diámetros, se programaron las trayectorias del manipulador para que éste realice el movimiento correspondiente para agarrar el tipo de engranaje que proviene del proceso de dentado. Además, gracias al sensor que detiene la cinta transportadora, los engranajes siempre se detendrán en la misma posición.
+
+### Identificación de peligros y gestión del riesgo.
+
+Con el fin de minimizar los riesgos en la planta, la celda robotizada está protegida por un cercado para evitar que algún operario ingrese a ella. Para acceder, se ha instalado una puerta trasera, la cual cuenta con un sensor RFID, garantizando que solo el personal autorizado pueda ingresar a la celda. Cuando el sensor recibe la señal, el robot se detiene por completo, bloqueando el acceso hasta que la persona autorizada salga de la celda y presione el botón de reset ubicado cerca del sensor RFID.
+
+Además, la celda está equipada con una baliza que indica el estado del sistema:
+- Color rojo: cuando el sistema está apagado.
+- Color verde: cuando el sistema está encendido.
+- Colores verde y amarillo: cuando el manipulador está en movimiento.
+
+La celda también cuenta con varias paradas de emergencia: dos ubicadas en el exterior, cerca de las bandas transportadoras, y una en el pulsador del controlador IRC5.
+
+La celda robotizada está diseñada para operar sin la presencia de un operario dentro de la celda durante su funcionamiento normal. Si es necesario realizar mantenimiento en algún componente, se puede ingresar a la celda apagando automáticamente el robot para garantizar la seguridad.
 
 
 
