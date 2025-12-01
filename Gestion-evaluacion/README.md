@@ -1,6 +1,10 @@
 # Módulo: Gestión y evaluación de la producción automatizada
 
-En esta sección se puede encontrar
+El proyecto partió de los datos recolectados durante la visita a la planta de Industrias RAMFE, ubicada en la Cra 69 #17a-96 en Bogotá, Colombia. Esta visita permitió comprender de primera mano el funcionamiento general de la planta, la disposición de su maquinaria, los flujos de trabajo y las tareas realizadas por los colaboradores en cada etapa del proceso productivo. A partir de esta información se llevó a cabo un análisis preliminar que permitió identificar las áreas con mayor potencial de mejora. Para efectos del estudio se seleccionó como caso principal el proceso de fabricación del motorreductor Sin-Fin Corona, del cual se estimo una producción de 75 unidades al mes. Su elección permitió obtener una visión clara del comportamiento actual de la línea, así como de las oportunidades para implementar automatización y optimización operativa. Los hallazgos obtenidos se organizaron y sintetizaron en una serie de esquemas diagnósticos que sirven como base para la propuesta de mejora:
+Diagrama de Spaguetti
+Diagrama Pre-VSM
+Estos documentos, presentados a continuación, permiten visualizar el estado actual del proceso, comprender sus flujos y detectar las principales ineficiencias, sirviendo como punto de partida para el diseño de soluciones orientadas a la modernización y aumento de productividad dentro de la planta.
+
 <ul>
   <li> Diagrama de operaciones de proceso. </li>
   
