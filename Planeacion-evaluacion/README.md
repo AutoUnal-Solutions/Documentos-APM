@@ -47,7 +47,7 @@ En esta sección se puede encontrar
 
 
 
-  El excel de Planeación y Evaluación se encuentra en el [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
+  Las especificaciones y detalle de estos costos se encuentran en el [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true) en concreto en la hoja *Especificación de Inversion Inicial*.
   
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
   
