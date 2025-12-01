@@ -12,10 +12,11 @@ Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celd
 
 
 <p align="center">
-
+<center> 
+  
   ![IRB4600](https://github.com/user-attachments/assets/96c7e906-2249-4bd4-87f8-4a7dc7bfad3a)
-</p>
-Manipulador IRB 4600
+ </center>
+<center> Manipulador IRB 4600 </center>
 
 
 
@@ -23,8 +24,8 @@ Manipulador IRB 4600
 <img width="736" height="415" alt="IRC5_16x9-S" src="https://github.com/user-attachments/assets/85ff936f-4115-4aa0-af64-4c5d73069947" />
 </p>
 
+<center> Controlador IRC5 </center>
 
-Controlador IRC5
 
 | Elemento | Peso (kg) |
 | ---- | ---- |
@@ -39,7 +40,7 @@ Para manipular adecuadamente los engranajes, se seleccionó el gripper OnRobot 3
 <img width="183" height="226" alt="image" src="https://github.com/user-attachments/assets/8db4f2a2-6b00-45af-ab66-ca62255dcea6" />
 </p>
 
-Gripper OnRobot 3FG25
+<center> Gripper OnRobot 3FG25 </center>
 
 
 
