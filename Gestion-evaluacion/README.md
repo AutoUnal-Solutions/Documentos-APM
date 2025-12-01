@@ -65,7 +65,11 @@ El nuevo diagrama de Spaguetti evidencia una secuencia más ordenada en el flujo
 
   <li> Diagrama de análisis de proceso.</li>
 
-  Los diagramas de análisis de proceso se pueden visualizar en el [siguiente enlace.](https://docs.google.com/document/d/1aUp_YgVJHbEZInIFsLJUMVwwGUu5Rn2-zNvv4G0EORY/edit?usp=sharing)
+  Los diagramas de análisis de proceso se pueden visualizar en los enlaces a continuación
+  
+  - [Sin fin](https://docs.google.com/document/d/1aUp_YgVJHbEZInIFsLJUMVwwGUu5Rn2-zNvv4G0EORY/edit?usp=sharing)
+  - [Helicoidal](https://docs.google.com/document/d/1Xq_dhX6VIIS9deCPPRwR0gN1H2BGmTMKkkJkM8843_M/edit?usp=sharing)
+  - [Conico](https://docs.google.com/document/d/1652Q_VW7liJbq4_7O6guUYLTBjHVUrN8bFRa_wXC7cc/edit?usp=sharing)
 
 
   
