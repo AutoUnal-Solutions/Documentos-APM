@@ -14,16 +14,15 @@ Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celd
 <p align="center">
   
   ![IRB4600](https://github.com/user-attachments/assets/a8e7b257-50c8-476e-b52d-21e461a38c6a)
-  
-  Manipulador IRB 4600
+</p>
+Manipulador IRB 4600
 
+
+
+<p align="center">
+<img width="736" height="415" alt="IRC5_16x9-S" src="https://github.com/user-attachments/assets/85ff936f-4115-4aa0-af64-4c5d73069947" />
 </p>
 
-
-
-
-
-<img align="center" width="736" height="415" alt="IRC5_16x9-S" src="https://github.com/user-attachments/assets/85ff936f-4115-4aa0-af64-4c5d73069947" />
 
 Controlador IRC5
 
