@@ -50,6 +50,7 @@ En esta sección se puede encontrar
   El excel de Planeación y Evaluación se encuentra en el [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
   
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
+  
 | Indicador | Valor | Descripción |
 | --- | --- | --- |
 | ROI | 499,95% | El Retorno sobre la Inversión (ROI) indica que por cada peso invertido, el proyecto generó 4,99 pesos de utilidad neta. Un ROI de casi 500% representa un retorno significativo, mostrando que el proyecto es rentable en relación con la inversión inicial. |
@@ -57,8 +58,7 @@ En esta sección se puede encontrar
 | TIR mensual | 7% | La Tasa Interna de Retorno (TIR) superior al costo de la tasa de descuento estimada en 1.53%, estimada  confirma que el proyecto es rentable, con un rendimiento mayor al mínimo esperado por los inversionistas. |
 | Payback | 15,53 | Es el tiempo necesario para recuperar la inversión inicial a través de los flujos netos de caja generados por el proyecto. En este caso, el retorno se logra en 15.53 meses. |
 
-
-
+La hoja de excel con los flujos de caja e indicadores económicos se encuentra en el [Enlace](https://docs.google.com/spreadsheets/d/10GtneVJCKFd9BxAj5Y0VaI_61IHAa70O/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
 
 
   <li> Actas </li>
@@ -67,9 +67,12 @@ En esta sección se puede encontrar
   
   <li> Modelo de negocio </li>
   
-  ![DIAGRAMAS APM (2)](https://github.com/user-attachments/assets/45d7fb89-9628-4181-8ef0-d3ee113c0e98)
+  ![DIAGRAMAS APM - Página 1](https://github.com/user-attachments/assets/f764d6fb-dddc-44a9-8e2f-b2db507a9899)
 
+<li> Oferta Comercial </li>
 
+La oferta comercial se encuentra en [Enlace](https://docs.google.com/document/d/10X6M7_6HpWpu-iFUuRZQy7G4C0b_E8XE/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
+  
 </ul>
 
 
