@@ -12,8 +12,8 @@ Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celd
 
 
 <p align="center">
-  
-  ![IRB4600](https://github.com/user-attachments/assets/a8e7b257-50c8-476e-b52d-21e461a38c6a)
+
+  ![IRB4600](https://github.com/user-attachments/assets/96c7e906-2249-4bd4-87f8-4a7dc7bfad3a)
 </p>
 Manipulador IRB 4600
 
