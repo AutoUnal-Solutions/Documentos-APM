@@ -51,6 +51,7 @@ En esta sección se puede encontrar
   
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
 | Indicador | Valor | Descripción |
+| --- | --- | --- |
 | ROI | 499,95% | El Retorno sobre la Inversión (ROI) indica que por cada peso invertido, el proyecto generó 4,99 pesos de utilidad neta. Un ROI de casi 500% representa un retorno significativo, mostrando que el proyecto es rentable en relación con la inversión inicial. |
 | VAN (COP) | $3.801.881.457,12 | El Valor Actual Neto (VAN o VPN) es positivo, lo que significa que el proyecto genera un valor presente de más de $3.8 mil millones por encima del costo de capital. Esto confirma que el proyecto es financieramente viable. |
 | TIR mensual | 7% | La Tasa Interna de Retorno (TIR) superior al costo de la tasa de descuento estimada en 1.53%, estimada  confirma que el proyecto es rentable, con un rendimiento mayor al mínimo esperado por los inversionistas. |
