@@ -11,16 +11,12 @@ En resumen, la lógica que sigue la celda robotizada es la siguiente: inicialmen
 Para ello, se seleccionó el robot IRB 4600 de ABB, un robot diseñado para celdas de fabricación compactas con un alto volumen de productividad. A pesar de contar con un manipulador relativamente grande, ocupa poco espacio. Este robot fue seleccionado principalmente por su alcance y su carga útil. Específicamente, la referencia seleccionada fue el IRB 4600-20/2.50, que tiene un alcance de 2.51 m, lo cual es perfecto para la distribución diseñada para la celda robotizada, y una carga útil de 20 kg, suficiente para las piezas que se van a posicionar en las máquinas CNC. Esto, considerando que el engranaje más pesado tiene una masa de aproximadamente 6 kilogramos, además del peso del gripper. Al momento de realizar la compra de este robot, se incluye su controlador, el IRC5.
 
 
-<p align="center">
-<center> 
-  
-  ![IRB4600](https://github.com/user-attachments/assets/96c7e906-2249-4bd4-87f8-4a7dc7bfad3a)
-</center>
-<center> 
+
+  ![IRB4600](https://github.com/user-attachments/assets/96c7e906-2249-4bd4-87f8-4a7dc7bfad3a) 
   Manipulador IRB 4600 
-</center>
 
 
+<br>
 
 <p align="center">
 <img width="736" height="415" alt="IRC5_16x9-S" src="https://github.com/user-attachments/assets/85ff936f-4115-4aa0-af64-4c5d73069947" />
