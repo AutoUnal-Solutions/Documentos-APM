@@ -26,9 +26,40 @@ En esta sección se puede encontrar
   
   <li> Presupuesto de adquisiciones, costos del proyecto y flujos de caja. </li>
 
+  | Inversion Inicial | Valor (COP) |
+  | --- | --- |
+  | Celda robótica y seguridad asociada | $349.989.950 |
+  | Banda Transportadora | $157.065.480 |
+  | Sistema SCADA y PLC | $57.799.278 |
+  | Cambio en la distribución de la planta | $77.520.000 |
+  | Compra de equipos necesarios (Rect) | $400.000.000 |
+  | Ingenieros | $35.872.200 |
+  | Capacitaciones | $742.696 |
+  | Total | $1.078.989.604 |
+  | *Total + primer pago de licencia RobotStudio* | *$1.084.989.604* |
+  
+  
+  | Costos operativos | Valor (COP) |    |
+  | --- | --- | --- |
+  | Energia electrica (Banda-Robot-Fresadoras) | $7.700.400 | Mensual |
+  | Mantenimiento Celda Robótica | $10.800.000 | Anual |
+  | Licencia Software - RobotStudio Premium anual | $6.000.000 | Anual |
+
+
+
   El excel de Planeación y Evaluación se encuentra en el [Enlace](https://docs.google.com/spreadsheets/d/1uJv6NruH7LZvlPD_J1ERYyR9r-bhaFu_/edit?usp=sharing&ouid=113938580358277871629&rtpof=true&sd=true)
   
   <li> Los indicadores ROI, VPN, TIR y Payback </li>
+| Indicador | Valor | Descripción |
+| ROI | 499,95% | El Retorno sobre la Inversión (ROI) indica que por cada peso invertido, el proyecto generó 4,99 pesos de utilidad neta. Un ROI de casi 500% representa un retorno significativo, mostrando que el proyecto es rentable en relación con la inversión inicial. |
+| VAN (COP) | $3.801.881.457,12 | El Valor Actual Neto (VAN o VPN) es positivo, lo que significa que el proyecto genera un valor presente de más de $3.8 mil millones por encima del costo de capital. Esto confirma que el proyecto es financieramente viable. |
+| TIR mensual | 7% | La Tasa Interna de Retorno (TIR) superior al costo de la tasa de descuento estimada en 1.53%, estimada  confirma que el proyecto es rentable, con un rendimiento mayor al mínimo esperado por los inversionistas. |
+| Payback | 15,53 | Es el tiempo necesario para recuperar la inversión inicial a través de los flujos netos de caja generados por el proyecto. En este caso, el retorno se logra en 15.53 meses. |
+
+
+
+
+
   <li> Actas </li>
 
   Es posible acceder a las actas a través del [siguiente enlace.](https://drive.google.com/drive/folders/1U3PpoWG9muUpDJTKn5vSGh2F7Ffd8Fdt?usp=sharing)
