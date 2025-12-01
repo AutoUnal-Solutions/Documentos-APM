@@ -37,7 +37,7 @@ Controlador IRC5
 Para manipular adecuadamente los engranajes, se seleccionó el gripper OnRobot 3DG25, ideal para manipular piezas cilíndricas como los engranajes. Además, este gripper está diseñado para funcionar en entornos de fabricación exigentes, especialmente en el manejo de máquinas CNC con piezas de trabajo pesadas. Tiene capacidad para agarrar objetos con un diámetro máximo de 155 mm, pero puede manipular elementos desde orificios internos. Esto significa que, si en algún momento se debe manipular un engranaje que supere los 155 mm de diámetro exterior, puede hacerlo desde su orificio central. Además, es capaz de manipular piezas de hasta 25 kg. Esta pinza es completamente eléctrica y proporciona un control total sobre la sujeción, lo que permite un agarre rápido de las piezas y garantiza un agarre firme y estable, lo que permite una colocación precisa en las máquinas CNC. Su fuerza máxima de agarre es de 450 N.
 
 <p align="center">
-<img width="551" height="680" alt="image" src="https://github.com/user-attachments/assets/8db4f2a2-6b00-45af-ab66-ca62255dcea6" />
+<img width="183" height="226" alt="image" src="https://github.com/user-attachments/assets/8db4f2a2-6b00-45af-ab66-ca62255dcea6" />
 </p>
 
 Gripper OnRobot 3FG25
