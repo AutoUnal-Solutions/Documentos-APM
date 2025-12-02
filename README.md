@@ -51,11 +51,11 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
 
 [SCADA](SCADA)
 
-### Valor agregado:
-
 ### Módulo: Informe de Proceso:
 
 [Informe de Proceso](Informe%20de%20Proceso)
+
+### Valor agregado:
 
 [Valor agregado](plus)
 
