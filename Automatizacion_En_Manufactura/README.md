@@ -6,6 +6,9 @@ En esta sección se puede encontrar
 
   <img width="3325" height="2111" alt="Blank diagram" src="https://github.com/user-attachments/assets/3f452458-c187-47b5-b6c8-15c62884ffe5" />
 
+La pirámide de automatización la integración de nuestro proceso de rectificación de engranajes dentro de la arquitectura tecnológica de una planta moderna. En la base se encuentra el proceso físico, compuesto por el robot manipulador (IR 4600 de ABB), las bandas transportadoras y las máquinas CNC, que ejecutan directamente la transformación de la pieza. 
+Sobre este nivel están los dispositivos de sensado (sensores infrarrojos industriales para conteo e identificación de piezas, sensores XGHB320345) y manipulación que permiten detectar posiciones, estados y condiciones del proceso para garantizar una operación confiable. Además se muestra el PLC elegido para la programación del funcionamiento de los actuadores (CompactLogix 5380 Controller).
+En el nivel de monitoreo y supervisión se encuentra la plataforma SCADA del proyecto, donde Ignition proporciona visualización, alarmas y control operativo, mientras que Azure actúa como infraestructura complementaria para la comunicación externa del Ignition. Ambos trabajan en el mismo nivel, apoyando la supervisión avanzada y la disponibilidad de información en tiempo real.
 
   <li> Arquitectura de comunicaciones y descripción de las comunicaciones utilizadas, identificando protocolos, canales, niveles de la pirámide de automatización donde son utilizadas.</li>
 
