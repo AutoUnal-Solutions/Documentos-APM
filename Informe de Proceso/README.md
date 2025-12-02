@@ -32,15 +32,26 @@ Además, se designó un líder general del proyecto, encargado de coordinar, asi
 - Juan:
 - Yeira:
 - Oscar:
+Durante el desarrollo de este proyecto, el proceso de aprendizaje fue sumamente enriquecedor al integrar diversos conceptos de redes, control y automatización industrial. A través de la configuración de una arquitectura de comunicaciones robusta y el uso de herramientas como Ignition y Siemens NX MCD, profundicé en la comprensión de cómo conectar dispositivos de distintas naturalezas (computadoras, tablets, celulares) en un entorno automatizado. Aprendí a ensamblar y simular el comisionamiento virtual de la máquina, configurando movimientos y trayectorias, lo que me permitió conectar teoría con práctica. Este enfoque interdisciplinario me ayudó a comprender cómo los diferentes sistemas interactúan en la industria y cómo su integración adecuada optimiza la eficiencia y seguridad operativa.
+
 - Santiago:
 Durante el proyecto, reforcé mis habilidades blandas al trabajar en equipo en un proyecto relativamente grande desde el punto de vista académico. Fue interesante implementar lo aprendido en los últimos semestres de la carrera en un único proyecto. Además, aprendí de cada módulo y pude evidenciar cómo se desarrollaba el proyecto de manera conjunta. Reforcé mis conocimientos en robótica al trabajar en el módulo de celda robotizada, desarrollando códigos y trayectorias para el proceso de machine tending implementado en nuestro proyecto.
 
 - Jenny:
+En el desarrollo del proyecto utilice conocimientos academicos adquiridos en los ultimos años, tambien aprendi y reforce los conocimientos adquiridos. Respecto al trabajo en equipo hubo momentos donde fue de mayor importancia la comunicación, pero esto también fue un problema en algunos momentos. 
+
+ 
 
 
 ## Recomendaciones para futuros trabajos de Aprendizaje Basado en Problemas orientado a Proyecto.
 - Juan
 - Yeira
 - Oscar
+Es fundamental que, en futuros proyectos, se priorice el desarrollo de los aspectos técnicos desde el inicio, especialmente cuando se trata de tareas complejas y laboriosas, como el diseño de comunicaciones y el comisionamiento virtual. En este caso, dedicar las últimas semanas del proyecto a ejecutar todo el trabajo técnico, como ocurrió en mi experiencia, genera una carga de trabajo abrumadora. Pasé una semana completa trabajando entre 15 y 18 horas al día para completar las comunicaciones y el comisionamiento virtual, lo que fue extremadamente exigente. Distribuir mejor las tareas técnicas a lo largo del semestre no solo permitiría un avance más equilibrado, sino que también reduciría el estrés y mejoraría la calidad de la ejecución, permitiendo más tiempo para ajustes y pruebas.
 - Santiago
+Es importante que, durante las primeras semanas del proyecto, se identifiquen las fortalezas de cada integrante del equipo con el fin de definir qué módulo liderará cada persona. Es fundamental aclarar que este liderazgo de módulos no implica una separación del proyecto ni del grupo en general, sino que cada módulo tendrá una persona encargada, la cual deberá mantener una comunicación constante con el resto del equipo para asegurar que el proyecto se desarrolle de manera conjunta y que los módulos se integren de forma natural.
+
+En cuanto al módulo de celda robotizada, es crucial consultar y cotizar con diferentes marcas y proveedores los posibles robots que se pueden implementar, siempre teniendo en cuenta la tarea específica que se desea ejecutar con el robot.
+
 - Jenny
+Es muy importante considerar el tiempo que se tiene para el desarrollo del proyecto y es necesario saber administrarlo en equipo, pues los proyectos no se pueden separar totalmente en secciones y en muchos casos son secuenciales.
