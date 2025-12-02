@@ -22,7 +22,7 @@ El resultado es una arquitectura híbrida, escalable y preparada para Industria 
 
   <li>Diagramas de instrumentación</li>
   
-![PI D](https://github.com/user-attachments/assets/911b9792-7e0f-4331-bf49-805aab2f8b5f)
+![PI D (1)](https://github.com/user-attachments/assets/4f74e406-c3d9-42d7-b788-184d9844d666)
 
   
 </ul>
