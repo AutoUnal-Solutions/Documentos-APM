@@ -21,4 +21,8 @@ En paralelo, la solución se extiende hacia el exterior gracias a una integraci�
 El resultado es una arquitectura híbrida, escalable y preparada para Industria 4.0, capaz de unir simulación, operación real y analítica en un único ecosistema conectado.
 
   <li>Diagramas de instrumentación</li>
+  
+![PI D](https://github.com/user-attachments/assets/911b9792-7e0f-4331-bf49-805aab2f8b5f)
+
+  
 </ul>
