@@ -30,6 +30,8 @@ Además, se designó un líder general del proyecto, encargado de coordinar, asi
 
 ### Proceso de Aprendizaje
 - Juan:
+El desarrollo del proyecto exigió integrar y aplicar múltiples habilidades y conocimientos adquiridos a lo largo de la carrera, lo que no solo permitió reforzar las competencias ya existentes, sino también impulsar la adquisición de nuevas capacidades. El recorrido académico dentro de la materia resultó especialmente valioso para el crecimiento profesional, consolidando conceptos fundamentales y abriendo la puerta a aprendizajes adicionales que serán determinantes al momento de enfrentar los retos propios del ejercicio ingenieril.
+
 - Yeira:
 - Oscar:
 Durante el desarrollo de este proyecto, el proceso de aprendizaje fue sumamente enriquecedor al integrar diversos conceptos de redes, control y automatización industrial. A través de la configuración de una arquitectura de comunicaciones robusta y el uso de herramientas como Ignition y Siemens NX MCD, profundicé en la comprensión de cómo conectar dispositivos de distintas naturalezas (computadoras, tablets, celulares) en un entorno automatizado. Aprendí a ensamblar y simular el comisionamiento virtual de la máquina, configurando movimientos y trayectorias, lo que me permitió conectar teoría con práctica. Este enfoque interdisciplinario me ayudó a comprender cómo los diferentes sistemas interactúan en la industria y cómo su integración adecuada optimiza la eficiencia y seguridad operativa.
@@ -45,9 +47,12 @@ En el desarrollo del proyecto utilice conocimientos academicos adquiridos en los
 
 ## Recomendaciones para futuros trabajos de Aprendizaje Basado en Problemas orientado a Proyecto.
 - Juan
+ Se puede considerar la proposición del proyecto con mayor tiempo y con mejores condiciones planteadas desde un inicio por parte del equipo organizador. Ya de parte del equipo se valoraría una mayor comunicación e integración de todxs lxs participantes en las actividades que se adelantan individualmente. Adicionalmente se considera importante desde un principio establecer un cronograma de reuniones y actualizaciones de trabajo dentro del equipo.
+
 - Yeira
 - Oscar
 Es fundamental que, en futuros proyectos, se priorice el desarrollo de los aspectos técnicos desde el inicio, especialmente cuando se trata de tareas complejas y laboriosas, como el diseño de comunicaciones y el comisionamiento virtual. En este caso, dedicar las últimas semanas del proyecto a ejecutar todo el trabajo técnico, como ocurrió en mi experiencia, genera una carga de trabajo abrumadora. Pasé una semana completa trabajando entre 15 y 18 horas al día para completar las comunicaciones y el comisionamiento virtual, lo que fue extremadamente exigente. Distribuir mejor las tareas técnicas a lo largo del semestre no solo permitiría un avance más equilibrado, sino que también reduciría el estrés y mejoraría la calidad de la ejecución, permitiendo más tiempo para ajustes y pruebas.
+
 - Santiago
 Es importante que, durante las primeras semanas del proyecto, se identifiquen las fortalezas de cada integrante del equipo con el fin de definir qué módulo liderará cada persona. Es fundamental aclarar que este liderazgo de módulos no implica una separación del proyecto ni del grupo en general, sino que cada módulo tendrá una persona encargada, la cual deberá mantener una comunicación constante con el resto del equipo para asegurar que el proyecto se desarrolle de manera conjunta y que los módulos se integren de forma natural.
 
