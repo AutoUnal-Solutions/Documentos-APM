@@ -6,6 +6,9 @@ Desde el inicio del proyecto se estableció un esquema de trabajo basado en dos 
 A lo largo del desarrollo, la mayoría de las reuniones se llevaron a cabo según lo planificado, ajustándose únicamente cuando la naturaleza de las tareas no requería una sesión formal. En estos casos, el avance y las coordinaciones se gestionaron a través del grupo de WhatsApp, permitiendo mantener una comunicación constante y ágil.
 Durante el proyecto surgieron diversas dudas técnicas y metodológicas, las cuales se abordaron inicialmente dentro del equipo mediante discusiones internas y consultas entre compañeros. Cuando el tema lo ameritaba o no se lograba una resolución completa, se acudió a los docentes, quienes brindaron orientación y aclaraciones pertinentes. 
 
+Una vez se realizó la retroalimentación del primer avance del proyecto por parte de los profesores, se tomaron en cuenta todas las recomendaciones y observaciones, y el proyecto fue definido de manera conjunta por todo el grupo. Semanalmente, el líder de cada módulo presentaba sus avances al equipo para generar una retroalimentación grupal, resolviendo dudas entre los miembros y complementándose de manera colaborativa.
+
+
 ## Trabajo Colaborativo
 
 ### Proceso de Aprendizaje
