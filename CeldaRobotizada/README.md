@@ -44,7 +44,30 @@ Para manipular adecuadamente los engranajes, se seleccionó el gripper OnRobot 3
 
 <br>
 
+![Conico](https://github.com/user-attachments/assets/b91e8504-2587-48c9-8dc1-c9407387608d)
+
+Engranaje Cónico
+
+<br>
+
+![Corona](https://github.com/user-attachments/assets/050da31c-60e7-4015-bf36-cbef3e8c4be0)
+
+Engranaje Corona
+
+<br>
+
+![Helocoidal](https://github.com/user-attachments/assets/90a19c21-d327-494f-ae3c-64f609e02614)
+
+Engranaje Helicoidal
+
+<br>
+
+
+
 ### Diseño de celda robotizada en RobotStudio y consideraciones de espacio, flujo de producto, interacción con personal, seguridad funcional y agarre del robot.
+
+![CeldaRobotizada](https://github.com/user-attachments/assets/f9eea908-4660-40ba-8875-1f148cb63d10)
+
 
 La celda de manufactura robotizada fue diseñada y distribuida de tal manera que el robot quede en el centro de la celda, con el fin de maximizar su alcance y poder interactuar con la mayor cantidad posible de máquinas CNC. Como se observa en la figura, alrededor del manipulador se encuentran ubicadas tres máquinas CNC, cada una encargada del rectificado de un tipo específico de engranaje.
 
