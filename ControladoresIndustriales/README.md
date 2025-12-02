@@ -4,7 +4,7 @@ En esta sección se puede encontrar
 <ul>
   <li> Lógica programada (Grafcet y Ladder). </li>
 
-  Grafcet
+  Grafcet:
   
   <img width="5467" height="2196" alt="GRAFCET (1) (1)" src="https://github.com/user-attachments/assets/ea08a08e-67c9-4590-ad64-7b19d28d5836" />
 
