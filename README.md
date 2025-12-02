@@ -53,6 +53,10 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
 
 ### Valor agregado:
 
+### Módulo: Informe de Proceso:
+
+[Informe de Proceso](Informe%20de%20Proceso)
+
 [Valor agregado](plus)
 
 
