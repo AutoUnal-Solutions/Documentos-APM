@@ -23,27 +23,18 @@ Repositorio que reúne los entregables del proyecto Integrador de la materia de 
 
 <table>
   <tr>
-    <td>
-      <h1> AutoUnal Solutions</h1>
-      <h2> Proyecto integrador | Automatización de Procesos de Manufactura </h2>
-      <strong> Evidencia de tiempos antes y después de automatizar:</strong>
-      <ul>
-        <li>Antes: 141 min/unidad</li>
-        <li>Después: 42.34 min/unidad</li>
-      </ul>
-      <strong> Costo total del proyecto:</strong>
-      <ul>
-        <li>$1.084.989.604 COP</li>
-      </ul>
-      <strong> Tiempo de ejecución del proyecto:</strong>
-      <ul>
-        <li>16 a 20 semanas</li>
-      </ul>
-    </td>
-
+    <td><strong>Evidencia de tiempos antes y después de automatizar</strong></td>
+    <td>141 min/unidad → 42.34 min/unidad</td>
+  </tr>
+  <tr>
+    <td><strong>Costo total del proyecto</strong></td>
+    <td>$1.084.989.604 COP</td>
+  </tr>
+  <tr>
+    <td><strong>Tiempo de ejecución del proyecto</strong></td>
+    <td>16 a 20 semanas</td>
   </tr>
 </table>
-
 
 ### Módulo: Introducción a la automatización en manufactura.
 
